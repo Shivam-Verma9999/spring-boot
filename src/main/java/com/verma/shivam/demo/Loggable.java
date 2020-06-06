@@ -1,4 +1,4 @@
 package com.verma.shivam.demo;
 
-public class GreetingController {
+public class Loggable {
 }
